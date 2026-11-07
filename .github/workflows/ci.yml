@@ -41,7 +41,7 @@ jobs:
   # green test job means the image's compiler and package tree agree.
   # ---------------------------------------------------------------------
   test:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@v5
