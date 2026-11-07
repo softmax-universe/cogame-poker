@@ -21,7 +21,7 @@
       "run": [
         "/bin/poker"
       ],
-      "source_url": "https://github.com/Metta-AI/cogame-poker/tree/main"
+      "source_url": "https://github.com/softmax-universe/cogame-poker/tree/main"
     },
     "config_schema": {
       "$schema": "https://json-schema.org/draft/2020-12/schema",
@@ -478,7 +478,7 @@
           "cpu": "1"
         }
       },
-      "source_url": "https://github.com/Metta-AI/cogame-poker/tree/main"
+      "source_url": "https://github.com/softmax-universe/cogame-poker/tree/main"
     },
     {
       "id": "poker-baseline",
@@ -501,7 +501,7 @@
           "cpu": "1"
         }
       },
-      "source_url": "https://github.com/Metta-AI/cogame-poker/tree/main"
+      "source_url": "https://github.com/softmax-universe/cogame-poker/tree/main"
     }
   ],
   "variants": [
